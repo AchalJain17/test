@@ -1,0 +1,19 @@
+Title:
+
+Capital Markets Earnings Call Transcript Summarization Agent
+
+Problem Statement:
+
+Earnings call transcripts contain valuable insights but are lengthy and complex, making it difficult for analysts to quickly grasp key messages. Manual summarization is time-consuming and inconsistent. A generative Al agent that produces concise, thematic summaries highlighting financial performance, risks, and management outlook improves analyst productivity and decision-making.
+
+Data Requirements:
+
+Transcripts of earnings calls in text format. Company financial reports and stock performance data for context. Industry-specific terminology dictionaries. Historical summarized transcripts for reference.
+
+(Feel free to generate synthetic data as well from the provided access)
+
+Expected Output:
+
+The output includes structured text summaries with sections for key financial metrics, management discussion, and analyst questions. Summaries are formatted for analyst reports and support exporting as PDF or DOCX.
+
+Be creative to go beyond as you solve the above needs

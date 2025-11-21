@@ -1,0 +1,13 @@
+streamlit>=1.25.0
+flask>=2.0
+pandas>=2.0
+openpyxl
+langchain>=0.0
+langchain-openal>=0.0.1
+langchain-community>=0.0.1
+chroma-db>=0.3.23
+httpx>=0.24
+tiktoken
+python-dotenv
+langgraph>=0.1.0
+sentence-transformers
